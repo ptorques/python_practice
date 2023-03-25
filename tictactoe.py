@@ -1,5 +1,8 @@
 from random import randrange 
 
+# this is made with the specifications from a lab in the Python Foundation's Python 
+# Essentials course, which should explain some quirks in the logic
+
 board = [[1,2,3],[4,"X",6],[7,8,9]]
 
 def display_board(board):
